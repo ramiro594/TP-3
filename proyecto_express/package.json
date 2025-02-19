@@ -1,0 +1,16 @@
+{
+  "name": "practico-n3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prod": "echo \"ramiro salcedo\" && exit 1"
+  },
+  "author": "Ramiro Salcedo",
+  "license": "ISC",
+  "description": "- Alumno: Salcedo Carboni Ramiro Jesus -",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {}
+}
